@@ -1,0 +1,19 @@
+.shadow{
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 2px;
+  font-size: 18px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  cursor: pointer;
+  box-shadow: 4px 4px 5px rgba(0,0,0,0.3) ;
+  transition: margin-top .5s, margin-left .5s;
+}
+.shadow:active{
+  margin-top: 4px;
+  margin-left: 4px;
+  box-shadow: none;
+}

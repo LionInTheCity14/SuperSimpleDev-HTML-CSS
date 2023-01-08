@@ -1,0 +1,10 @@
+  
+  .Uber{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 115px;
+    border-radius: 2px;
+    margin-right: 8px;
+    cursor: pointer;
+  }

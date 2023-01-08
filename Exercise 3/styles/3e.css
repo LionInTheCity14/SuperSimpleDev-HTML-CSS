@@ -1,0 +1,37 @@
+.Linkedin-apply{
+  background-color: rgb(10, 102, 194);
+  font-weight: bold;
+  font-size: 15px;
+  border: none;
+  color: white;
+  height: 35px;
+  width: 240px;
+  border-radius: 18px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.Linkedin-apply:hover{
+  background-color: rgb(73, 174, 199);
+}
+.Linkedin-apply:active{
+  opacity: .8;
+}
+.Save{
+  background-color: white;
+  color: rgb(10, 102, 194);
+  font-weight: bold;
+  font-size: 15px;
+  border-color: rgb(10, 102, 194);
+  border-style: solid;
+  height: 35px;
+  width: 70px;
+  border-radius: 18px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: border-width 0.2s, opacity 0.2s;
+}
+.Save:hover{
+  border-width: 3px;
+  opacity: .7;
+}

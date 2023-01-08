@@ -1,0 +1,23 @@
+.Bootstrap-getStarted{
+  background-color: rgb(121, 82, 179);
+  height: 36px;
+  width: 100px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.Bootstrap-Download{
+  color: rgb(108, 117, 125);
+  background-color: white;
+  border-color: rgb(108, 117, 125);
+  border-style: solid;
+  border-radius: 4px;
+  font-weight: bold;
+  height: 36px;
+  width: 100px;
+  margin-right: 8px;
+  cursor: pointer;
+}
