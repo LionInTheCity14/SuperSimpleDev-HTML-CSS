@@ -1,0 +1,31 @@
+input{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+.last-name{
+  margin-right: 5px;
+}
+
+.email{
+  width: 367px;
+  display: block;
+  margin-top: 7px;
+}
+
+.button{
+  color: white;
+  font-weight: bold;
+  background-color: rgb(0, 60, 255);
+  border-radius: 10px;
+  border: none;
+  margin-top: 10px;
+  padding-left: 170px;
+  padding-right: 170px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+}

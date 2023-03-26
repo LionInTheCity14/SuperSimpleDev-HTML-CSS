@@ -1,0 +1,16 @@
+.GitHub{
+  background-color: rgb(46, 164, 79);
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  height: 35px;
+  width: 90px;
+  border-radius: 6px;
+  margin-right: 8px;
+  cursor: pointer;
+
+}
+.GitHub:hover{
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}

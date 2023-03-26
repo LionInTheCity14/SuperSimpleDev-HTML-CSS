@@ -1,0 +1,11 @@
+.google-search{
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 5);
+}

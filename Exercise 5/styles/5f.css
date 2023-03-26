@@ -1,0 +1,27 @@
+p{
+  font-family: 'Arial';
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.price{
+  color: rgb(100, 100, 100);
+}
+.digits{
+  color: black;
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+.yesterday-difference{
+  color: rgb(24, 128, 56);
+  margin-bottom: 5px;
+}
+
+.description{
+  color: rgb(100, 100, 100);
+  margin-bottom: 0px;
+}
+.red-difference{
+  color: rgb(235, 39, 39);
+}

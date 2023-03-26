@@ -1,0 +1,42 @@
+.Bootstrap-getStarted{
+  background-color: rgb(121, 82, 179);
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-right: 8px;
+  cursor: pointer;
+  vertical-align: top;
+  transition: background-color .2s;
+}
+.Bootstrap-getStarted:hover{
+  background-color: rgb(96, 64, 145);
+}
+.Bootstrap-getStarted:active{
+  background-color: rgb(77, 33, 143);
+}
+.Bootstrap-Download{
+  color: rgb(108, 117, 125);
+  background-color: white;
+  border-color: rgb(108, 117, 125);
+  border-style: solid;
+  border-radius: 4px;
+  font-weight: bold;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-right: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  transition: color 0.5s;
+  vertical-align: top;
+}
+.Bootstrap-Download:hover{
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
