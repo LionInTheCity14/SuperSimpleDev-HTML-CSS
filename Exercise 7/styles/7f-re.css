@@ -1,0 +1,19 @@
+.container{
+  width: 400px;
+}
+
+.email{
+  margin-top: 5px;
+  width: 365px;
+  height: 25px;
+  border: 1px solid rgb(11, 86, 226);
+}
+
+.agree{
+  color: white;
+  background-color: rgb(11, 86, 226);
+  border: none;
+  padding: 15px 147px;
+  border-radius: 30px;
+  font-weight: bold;
+}

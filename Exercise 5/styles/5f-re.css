@@ -1,0 +1,20 @@
+body{
+  font-family: arial;
+  color: grey;
+}
+
+.price{
+  font-size: 30px;
+  color: black;
+  line-height: 5vgfdxdpx;
+}
+
+.change{
+color: green;
+line-height: 40px;
+
+}
+
+.yesturdayChange{
+  color: red;
+}

@@ -1,0 +1,15 @@
+body{
+  font-family: arial;
+}
+
+.container{
+  width: 500px;
+}
+
+.auther-tag{
+  color: grey;
+}
+
+.tag{
+  color: rgb(34, 159, 231);
+}
