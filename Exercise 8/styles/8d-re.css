@@ -1,0 +1,39 @@
+.body {
+  margin: 0px;
+}
+
+/* .container {
+  width: 340px;
+  border: 2px solid red;
+} */
+
+.name {
+  display: inline-block;
+  font-family: arial;
+  font-size: 15px;
+  width: 150px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  padding-top:5px;
+  padding-bottom: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+#email {
+  display: block;
+  width: 320px;
+}
+
+.signup {
+  color: white;
+  font-family: arial;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(22, 106, 214);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 140px;
+  display: block;
+  text-align: center;
+}

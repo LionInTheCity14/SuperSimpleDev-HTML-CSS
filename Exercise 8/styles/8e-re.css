@@ -1,0 +1,45 @@
+body{
+  margin: 0px;
+}
+
+.container{
+  margin-left: 5px;
+  width: 350px;
+  /* border: 1px solid red; */
+  text-align: left;
+}
+
+.title{
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 5px 10px 20px 5px;
+}
+
+.input-fields{
+  display: block;
+  color: black;
+  background-color: lightgrey;
+  border: none;
+  margin-bottom: 5px;
+  padding: 10px 100px 10px 10px;
+  border-radius: 5px;
+}
+
+.request-now{
+  color: white;
+  background-color: black;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 2px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.schedule-later{
+  color: black;
+  background-color: lightgray;
+  border: none;
+  border-radius: 2px;
+  padding: 10px;
+}
